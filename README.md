@@ -32,3 +32,12 @@ https://osculator.net/2009/01/27/use-your-iphone-or-ipod-with-ableton-live/
 https://hexler.net/docs/touchosc-getting-started
 
 https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android
+
+<h2>Template downloads:</h2>
+<ul>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_iOS.touchosc?raw=true">Thec Basic iOS-version</li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_iOS.touchosc?raw=true">The Expanded iOS-version</li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_Android.touchosc?raw=true">The Basic Android-version</li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true">The Expanded Android-version</li>
+  
+</ul>
