@@ -3,7 +3,7 @@
 
 <h2>Getting started:</h2>
 
-After purchasing the TouchOSC-app, then you’ll be needing the following pieces of free software listed below.
+After purchasing the TouchOSC-app, you’ll then be needing the following pieces of free software listed below.
 <h3>Android/iOS:</h3>
 https://hexler.net/software/touchosc-android
 
