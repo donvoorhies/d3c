@@ -36,9 +36,8 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <a href="https://hexler.net/docs/touchosc" title="TouchOSC Layout Configuration" target="_blank">https://hexler.net/docs/touchosc-configuration-layout</a>
 
-<h3>A bit more Android-specific how-tos:</h3>
-
-<a href="https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android" title="TouchOSC and Ableton - Android" target="_blank">https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android</a>
+<h3>Additional "How-tos":</h3>
+<a href="https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/" title="4 easy step to adding a tablet..." target="_blank">https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/</a>
 
 <h2>Template downloads:</h2>
 <ul>
