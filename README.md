@@ -9,7 +9,7 @@
 
 <h3>"TL;DR -Cut to the chase: So the d3c-controller is then a what...?"</h3>
 <p>In short: the d3c-controller is a template intended to run on-/with TouchOSC's app, thus turning an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton via MIDI, as if it was a "regular" hardware-controller.
-Furthermore, you can also set/adjust the set's current-running BPM during your set, and there's also a three-band EQ including kill-buttons for each band, too (i.e.: implemented on the expanded-version of the template).</p>
+Furthermore, you can also set/adjust/change the set's current-running BPM on-the-fly, and there's also a three-band EQ including kill-buttons for each band, too (note: only implemented on the expanded-version of the template).</p>
 
 <p>Now - let's move on...</p>
 
@@ -38,6 +38,14 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <h3>Additional "How-tos":</h3>
 <a href="https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/" title="4 easy step to adding a tablet..." target="_blank">https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/</a>
+
+<h3>Note to Android/Windows-users:</h3>
+<p>Admitted, almost every manual/how-to/tutorial out there for TouchOSC seem more iOS-centric, and manuals/how-tos/tutorials explicitly for TouchOSC for 'droids and/or running on Windows are somewhat lacking in numbers out on the interweb!<br>
+However setting up the TouchOSc on an Android-tablet is a breeze, and so is getting it to talk with Ableton running on Windows!<br>
+Either download and install MIDIYoke and follow the instructions here: <a href="https://www.kvraudio.com/forum/viewtopic.php?p=4544922" title="Setup tutorial for TouchOSC on an Android Phone..." target="_blank">https://www.kvraudio.com/forum/viewtopic.php?p=4544922</a><br>
+(Please note the link above is of an older date...)  
+<br>  
+Or do as I did, download and install TouchOSC Bridge and let TouchOSC walk you through the process (also aided by the combo of the links listed above) and you'll be up and running in no time</p> 
 
 <h2>Template downloads:</h2>
 <ul>
