@@ -40,6 +40,8 @@ Then scroll down to get hold of the required software to get the template(s) ins
 <p>I'd like to take the opportunity to say thanks a LOT to Dimitri Pike (<a href="http://www.wildtek.net/" title="To the Wildtek website" target="_blank">http://www.wildtek.net/</a>)<br>
 for helping out giving the iOS-versions of the d3c-template a final shakedown, prior to their release!</p>
 
+<h2>Video:</h2><iframe width="960" height="540" src="https://www.youtube.com/embed/teHHosxho8o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen style="width:960px;height:540px;border=0"></iframe>
+
 <h2>License:</h2>
 <h3>MIT License</h3>
 <p>Copyright (c) 2017 - Don W. Voorhies</p>
