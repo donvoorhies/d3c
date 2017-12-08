@@ -41,11 +41,10 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <h3>Note to Android/Windows-users:</h3>
 <p>Admitted, almost every manual/how-to/tutorial out there for TouchOSC seem more iOS-centric, and manuals/how-tos/tutorials explicitly for TouchOSC for 'droids and/or running on Windows are somewhat lacking in numbers out on the interweb!<br>
-However setting up the TouchOSc on an Android-tablet is a breeze, and so is getting it to talk with Ableton running on Windows!<br>
-Either download and install MIDIYoke and follow the instructions here: <a href="https://www.kvraudio.com/forum/viewtopic.php?p=4544922" title="Setup tutorial for TouchOSC on an Android Phone..." target="_blank">https://www.kvraudio.com/forum/viewtopic.php?p=4544922</a><br>
-(Please note the link above is of an older date...)  
-<br>  
-Or do as I did, download and install TouchOSC Bridge and let TouchOSC walk you through the process (also aided by the combo of the links listed above) and you'll be up and running in no time</p> 
+However setting up the TouchOSc on an Android-tablet is a breeze (as there isn't that much difference in this case between iOS and Android, apart from the slight differences of their GUI), and so is getting it to talk with Ableton running on Windows, IMHO!</p>
+<p>But if all fails: Either download and install MIDIYoke and follow the instructions here: <a href="https://www.kvraudio.com/forum/viewtopic.php?p=4544922" title="Setup tutorial for TouchOSC on an Android Phone..." target="_blank">https://www.kvraudio.com/forum/viewtopic.php?p=4544922</a></p>
+<p>(Please note the link above is of an older date...)</p>  
+<p>Or do as I did, download and install TouchOSC Bridge and let TouchOSC walk you through the process (also aided by the combo of the links listed above) and you'll be up and running in no time...!</p> 
 
 <h2>Template downloads:</h2>
 <ul>
