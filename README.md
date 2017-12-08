@@ -35,10 +35,10 @@ https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-
 
 <h2>Template downloads:</h2>
 <ul>
-  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_iOS.touchosc?raw=true">The Basic iOS-version</li>
-  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_iOS.touchosc?raw=true">The Expanded iOS-version</li>
-  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_Android.touchosc?raw=true">The Basic Android-version</li>
-  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true">The Expanded Android-version</li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_iOS.touchosc?raw=true">The Basic iOS-version</a></li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_iOS.touchosc?raw=true">The Expanded iOS-version</a></li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_Android.touchosc?raw=true">The Basic Android-version</a></li>
+  <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true">The Expanded Android-version</a></li>
 </ul>
 
 <h2>&quot;Fun fact...&quot;</h2>
