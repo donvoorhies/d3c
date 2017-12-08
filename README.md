@@ -7,7 +7,7 @@ After purchasing the TouchOSC-app, then you’ll be needing the following pieces
 <h3>Android/iOS:</h3>
 https://hexler.net/software/touchosc-android
 
-Then scroll down to get hold of the required: 
+Then scroll down to get hold of the required software to get the template(s) installed: 
 <ul>
 <li>TouchOSC Editor</li>
 <li>TouchOSC Bridge</li>
