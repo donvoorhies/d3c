@@ -1,5 +1,5 @@
 # d3c
-<h1>The d3c-templates for TouchOSC intended for DJ-usage on Ableton</h1>
+<h1>A controller-template for TouchOSC intended for DJ-usage on Ableton</h1>
 
 <h2>Getting started:</h2>
 
