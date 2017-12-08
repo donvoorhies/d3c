@@ -41,6 +41,6 @@ https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-
   <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true">The Expanded Android-version</li>
 </ul>
 
-<h2>"Fun fact..."</h2>
+<h2>&quot;Fun fact...&quot;</h2>
 Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet) - ENJOY!
 https://www.mixcloud.com/dee3/live-from-bornholm/  
