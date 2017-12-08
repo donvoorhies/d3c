@@ -64,8 +64,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br
 SOFTWARE.</p>
 
 <h3>Please Note:</h3>
-<p>The MIT-license only applies here to the templates made accessible as downloads from this page</p> 
+<p>The MIT-license - as stated here - only applies to the templates made accessible as downloads from this page.</p> 
 
 <h2>&quot;Fun fact...&quot;</h2>
-Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet) - ENJOY!
+<p>Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet)<br> - ENJOY!</p>
 https://www.mixcloud.com/dee3/live-from-bornholm/  
