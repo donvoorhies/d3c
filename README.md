@@ -66,5 +66,4 @@ SOFTWARE.</i></p>
 <p>The MIT-license - as stated here - only applies to the templates made accessible as downloads from this page.</p> 
 
 <h2>&quot;Fun fact...&quot;</h2>
-<p>Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet)<br> - ENJOY!</p>
-<a href="https://www.mixcloud.com/dee3/live-from-bornholm/" title="The Live From An Island set at Mixcloud" target="_blank">https://www.mixcloud.com/dee3/live-from-bornholm/</a>  
+<p>Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet) - ENJOY!</p> <a href="https://www.mixcloud.com/dee3/live-from-bornholm/" title="The Live From An Island set at Mixcloud" target="_blank">https://www.mixcloud.com/dee3/live-from-bornholm/</a>  
