@@ -5,7 +5,7 @@
 
 After purchasing the TouchOSC-app, you’ll then be needing the following pieces of free software listed below.
 <h3>Android/iOS:</h3>
-https://hexler.net/software/touchosc-android
+<a href="https://hexler.net/software/touchosc-android" title="Get the additional TouchOSC-software from here..." target="_blank">https://hexler.net/software/touchosc-android</a>
 
 Then scroll down to get hold of the required software to get the template(s) installed: 
 <ul>
@@ -15,23 +15,20 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <h2>Getting things setup and running:</h2>
 
-https://hexler.net/docs/touchosc
+<a href="https://hexler.net/docs/touchosc" title="TouchOSC documnetation" target="_blank">https://hexler.net/docs/touchosc</a>
 
 
 <h3>Specifically in this case, regarding the templates:</h3>
 
-https://hexler.net/docs/touchosc-getting-started
+<a href="https://hexler.net/docs/touchosc-getting-started" title="TouchOSC - Getting Started" target="_blank">https://hexler.net/docs/touchosc-getting-started</a>
 
-https://hexler.net/docs/touchosc-configuration-layout
-
-https://osculator.net/2009/01/27/use-your-iphone-or-ipod-with-ableton-live/
-
+<a href="https://hexler.net/docs/touchosc" title="TouchOSC Layout Configuration" target="_blank">https://hexler.net/docs/touchosc-configuration-layout</a>
 
 <h3>A bit more Android-specific how-tos:</h3>
 
-https://hexler.net/docs/touchosc-getting-started
+<a href="https://hexler.net/docs/touchosc-getting-started" title="TouchOSC - Getting Started" target="_blank">https://hexler.net/docs/touchosc-getting-started</a>
 
-https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android
+<a href="https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android" title="TouchOSC and Ableton - Android" target="_blank">https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android</a>
 
 <h2>Template downloads:</h2>
 <ul>
