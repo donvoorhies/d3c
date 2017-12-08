@@ -41,6 +41,10 @@ https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-
   <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true">The Expanded Android-version</a></li>
 </ul>
 
+<h3>Additional credits/shout-outs:</h3>
+<p>I'd like to take the opportunity to say thanks a LOT to Dimitri Pike (http://www.wildtek.net/)<br>
+for helping out giving the iOS-versions of the d3c-template a final shakedown, prior to their release!</p>
+
 <h2>License:</h2>
 <h3>MIT License</h3>
 <p>Copyright (c) 2017 - Don W. Voorhies</p>
