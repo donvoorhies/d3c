@@ -26,8 +26,6 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <h3>A bit more Android-specific how-tos:</h3>
 
-<a href="https://hexler.net/docs/touchosc-getting-started" title="TouchOSC - Getting Started" target="_blank">https://hexler.net/docs/touchosc-getting-started</a>
-
 <a href="https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android" title="TouchOSC and Ableton - Android" target="_blank">https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-phone-feedback-windows-android</a>
 
 <h2>Template downloads:</h2>
@@ -46,23 +44,23 @@ for helping out giving the iOS-versions of the d3c-template a final shakedown, p
 <h3>MIT License</h3>
 <p>Copyright (c) 2017 - Don W. Voorhies</p>
 
-<p>Permission is hereby granted, free of charge, to any person obtaining a copy<br>
+<p><i>Permission is hereby granted, free of charge, to any person obtaining a copy<br>
 of this software and associated documentation files (the "Software"), to deal<br>
 in the Software without restriction, including without limitation the rights<br>
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>
 copies of the Software, and to permit persons to whom the Software is<br>
-furnished to do so, subject to the following conditions:</p>
+  furnished to do so, subject to the following conditions:</i></p>
 
-<p>The above copyright notice and this permission notice shall be included in all<br>
-copies or substantial portions of the Software.</p>
+<p><i>The above copyright notice and this permission notice shall be included in all<br>
+  copies or substantial portions of the Software.</i></p>
 
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+<p><i>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
-SOFTWARE.</p>
+SOFTWARE.</i></p>
 
 <h3>Please Note:</h3>
 <p>The MIT-license - as stated here - only applies to the templates made accessible as downloads from this page.</p> 
