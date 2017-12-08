@@ -42,7 +42,7 @@ https://www.ableton.com/answers/touchosc-and-ableton-configuration-with-live-to-
 </ul>
 
 <h3>Additional credits/shout-outs:</h3>
-<p>I'd like to take the opportunity to say thanks a LOT to Dimitri Pike (http://www.wildtek.net/)<br>
+<p>I'd like to take the opportunity to say thanks a LOT to Dimitri Pike (<a href="http://www.wildtek.net/" title="To the Wildtek website" target="_blank">http://www.wildtek.net/</a>)<br>
 for helping out giving the iOS-versions of the d3c-template a final shakedown, prior to their release!</p>
 
 <h2>License:</h2>
