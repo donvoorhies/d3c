@@ -72,4 +72,4 @@ SOFTWARE.</p>
 
 <h2>&quot;Fun fact...&quot;</h2>
 <p>Here's actually the first set that I've mixed with the prototype of the basic-version of d3c-template (using an Android 10.1-tablet)<br> - ENJOY!</p>
-https://www.mixcloud.com/dee3/live-from-bornholm/  
+<a href="https://www.mixcloud.com/dee3/live-from-bornholm/" title="The Live From An Island set at Mixcloud" target="_blank">https://www.mixcloud.com/dee3/live-from-bornholm/</a>  
