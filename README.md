@@ -5,7 +5,7 @@
 <p>Let's get the facts straight first: the d3c-controller is NOT a standalone (neither software- or hardware-based) MIDI (DJ-)controller!</p>
 
 <h3>"TL;DR -Cut to the chase: So the d3c-controller is then a what...?"</h3>
-<p>The d3c-controller is a template made for - and to be run on - TouchOSC's (IMHO) excellent app-software for iOS and Android by hexler.net, which enables a modular OSC and MIDI control surface for - in this case and for now - iPads and Android-based 10.1 tablets, intended to control Ableton for DJ-usage and -purposes, thus turning an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton via MIDI, as if it was a "regular" hardware-controller!
+<p>The d3c-controller is a template made for - and to be run on - TouchOSC's (IMHO) excellent app-software for iOS and Android by hexler.net, which enables a modular OSC and MIDI control surface for - in this case and for now - iPads and Android-based 10.1 tablets! Intended to control Ableton for DJ-usage and -purposes, this template's purpose is to turn an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton (via MIDI), as if it was a "regular" hardware-controller!
 Furthermore, you can also set/adjust/change the set's current-running BPM on-the-fly, and there's also a three-band EQ including kill-buttons for each band, too (note: only implemented on the expanded-version of the template).</p>
 
 <p>Now - let's move on...</p>
