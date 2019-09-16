@@ -23,13 +23,13 @@
 
 <h2>Getting things setup and running:</h2>
 
-<p><a href="https://hexler.net/docs/touchosc" title="TouchOSC documnetation" target="_blank">https://hexler.net/docs/touchosc</a></p>
+<p><a href="https://hexler.net/docs/touchosc" title="TouchOSC documnetation" target="_blank" rel="noreferrer">https://hexler.net/docs/touchosc</a></p>
 
 <h3>Specifically in this case, regarding the templates:</h3>
 
 <p><a href="https://hexler.net/docs/touchosc-getting-started" title="TouchOSC - Getting Started" target="_blank" rel="noreferrer">https://hexler.net/docs/touchosc-getting-started</a>
 <br>
-<a href="https://hexler.net/docs/touchosc" title="TouchOSC Layout Configuration" target="_blank">https://hexler.net/docs/touchosc-configuration-layout</a>
+<a href="https://hexler.net/docs/touchosc" title="TouchOSC Layout Configuration" target="_blank" rel="noreferrer">https://hexler.net/docs/touchosc-configuration-layout</a>
 </p>
 <h3>Additional "How-tos":</h3>
 <p><a href="https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/" title="4 easy step to adding a tablet..." target="_blank" rel="noreferrer">https://www.digitaldjtips.com/2012/05/4-easy-steps-to-adding-a-tablet-controller-to-your-dj-set-up/</a></p>
