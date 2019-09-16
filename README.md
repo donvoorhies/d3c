@@ -4,7 +4,7 @@
 <h2>Introducing the d3c - and first of all: what it is NOT...</h2>
 <p>Let's get the facts straight first: the d3c-controller is NOT a standalone (neither software- or hardware-based) MIDI (DJ-)controller!</p>
 
-<h3>"TL;DR -Cut to the chase: So the d3c-controller is then a what...?"</h3>
+<h2>"TL;DR -Cut to the chase: What is the d3c-controller then...?"</h2>
 <p>The d3c-controller is a template made for - and to be run on - TouchOSC's (IMHO) excellent app-software for iOS and Android by hexler.net, which enables a modular OSC and MIDI control surface for - in this case and for now - iPads and Android-based 10.1 tablets! Intended to control Ableton for DJ-usage and -purposes, this template's purpose is to turn an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton (via MIDI), as if it was a "regular" hardware-controller!
 Furthermore, you can also set/adjust/change the set's current-running BPM on-the-fly, and there's also a three-band EQ including kill-buttons for each band, too (note: only implemented on the expanded-version of the template).</p>
 
@@ -26,7 +26,6 @@ Then scroll down to get hold of the required software to get the template(s) ins
 
 <a href="https://hexler.net/docs/touchosc" title="TouchOSC documnetation" target="_blank">https://hexler.net/docs/touchosc</a>
 
-
 <h3>Specifically in this case, regarding the templates:</h3>
 
 <a href="https://hexler.net/docs/touchosc-getting-started" title="TouchOSC - Getting Started" target="_blank">https://hexler.net/docs/touchosc-getting-started</a>
@@ -41,7 +40,13 @@ Then scroll down to get hold of the required software to get the template(s) ins
 However setting up the TouchOSc on an Android-tablet is a breeze (as there isn't that much difference in this case between iOS and Android, apart from the slight differences of their GUI), and so is getting it to talk with Ableton running on Windows, IMHO!</p>
 <p>But if all fails: Either download and install MIDIYoke and follow the instructions here: <a href="https://www.kvraudio.com/forum/viewtopic.php?p=4544922" title="Setup tutorial for TouchOSC on an Android Phone..." target="_blank">https://www.kvraudio.com/forum/viewtopic.php?p=4544922</a></p>
 <p>(Please note the link above is of an older date...)</p>  
-<p>Or do as I did, download and install TouchOSC Bridge and let TouchOSC walk you through the process (also aided by the combo of the links listed above) and you'll be up and running in no time...!</p> 
+
+<p>Or just do as I did, download and install TouchOSC Bridge and let TouchOSC walk you through the process (also aided by the combo of the links listed above) and you'll be up and running in no time...!</p> 
+
+<h2>Regarding d3c and Ableton 10.x</h2>
+<p>Since the release of Ableton ver. 10, I've noticed some rather irritating bugs; I seriously doubt, it's Ableton's or Hexler's fault</p>
+<p>Although, I'm well-aware of these occuring bugs, I haven't had the opportunity to find out what's causing these - let alone fix them!<br> If any of you touchOSC-users out there might know, what might be causing this bug, then please by all means contact me A.S.A.P.!<br> But otherwise I have no current plans regarding me performing a bug-hunt and a fix of the d3c-templates - as for now!</p>
+<p>Just sayin'...</p>
 
 <h2>Template downloads:</h2>
 <ul>
@@ -57,7 +62,7 @@ for helping out giving the iOS-versions of the d3c-template a final shakedown, p
 
 <h2>License:</h2>
 <h3>MIT License</h3>
-<p>Copyright (c) 2017 - Don W. Voorhies</p>
+<p>Copyright (c) 2017-2019 - Don W. Voorhies</p>
 
 <p><i>Permission is hereby granted, free of charge, to any person obtaining a copy<br>
 of this software and associated documentation files (the "Software"), to deal<br>
