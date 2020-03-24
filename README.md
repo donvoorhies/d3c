@@ -48,9 +48,9 @@ However setting up the TouchOSc on an Android-tablet is a breeze (as there isn't
 <p>Although, I'm well-aware of these occurring bugs, I haven't had the opportunity to find out what's causing these - let alone fix them!<br>
 If any of you touchOSC-users out there, whom might know or can figure out what's causing this bug/these bugs, then please by all means contact me A.S.A.P.!</p>
 
-<p>But otherwise - for the time being - I have currently no plans performing a "bug"-hunt and -fix of the d3c-controller templates, as for now! As a result, the d3c-controller is therefore currently put on hold until further notice!<br>Furthermore, the d3c-website will be shut down and removed as of April the 1st, 2020; a "legacy"-site for the d3c-controller will however be available on and from this page.<br>Also if I should choose to "reboot" (and bug-fix) the d3c-controller, it's new/improved templates will be available from here!</p>
-
-<p>If any further progress regarding the d3c-controller should occur, I'll post so on "News"-section of <a href="https://don.voorhies.dk" rel="noopener" target="_blank">don.voorhies.dk.</p>
+<p>But otherwise - for the time being - I have currently no plans performing a "bug"-hunt and -fix of the d3c-controller templates, as for now! As a result, the d3c-controller is therefore currently put on hold until further notice!<br>Furthermore, the d3c-website will be shut down and removed as of April the 1st, 2020; a "legacy"-site for the d3c-controller will however be available on - and from - this page.</p>
+<p>Also if I should choose to "reboot" (and bug-fix) the d3c-controller, it's new/improved templates will be available from here!</p>
+<p>If any further progress regarding the d3c-controller should occur, I'll post so on the "News"-section of <a href="https://don.voorhies.dk" rel="noopener" target="_blank">https://don.voorhies.dk.</p>
   
 <h2>Template downloads:</h2>
 <ul>
