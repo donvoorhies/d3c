@@ -46,7 +46,7 @@ However setting up the TouchOSc on an Android-tablet is a breeze (as there isn't
 <p>Since the release of Ableton ver. 10, I've noticed some rather irritating bugs occurring in the d3c-template's; bugs, which I seriously doubt, are either Ableton's or Hexler's fault - well AFAIK, anyway!</p>
 
 <p>Although, I'm well-aware of these occurring bugs, I haven't had the opportunity to find out what's causing these - let alone fix them!<br>
-If any of you touchOSC-users out there, whom might know or can figure out what's causing this bug/these bugs, then please by all means contact me A.S.A.P.!</p>
+If any of you touchOSC-users out there, whom might know (or can figure out) what's causing this bug/these bugs, then please - by all means - contact me A.S.A.P.!</p>
 
 <p>But otherwise - for the time being - I have currently no plans performing a "bug"-hunt and -fix of the d3c-controller templates, as for now! As a result, the d3c-controller is therefore currently put on hold until further notice!<br>Furthermore, the d3c-website will be shut down and removed as of April the 1st, 2020; a "legacy"-site for the d3c-controller will however be available on - and from - this page.</p>
 <p>Also if I should choose to "reboot" (and bug-fix) the d3c-controller, it's new/improved templates will be available from here!</p>
