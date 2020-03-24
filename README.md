@@ -5,7 +5,8 @@
 <p>Let's get the facts straight first: the d3c-controller is NOT a standalone (neither software- or hardware-based) MIDI (DJ-)controller!</p>
 
 <h2>"TL;DR - cut to the chase: What is the d3c-controller then...?"</h2>
-<p>The d3c-controller is a template made for - and to be run on - TouchOSC's (IMHO) excellent app-software for iOS and Android by hexler.net, which enables a modular OSC and MIDI control surface for - in this case and for now - iPads and Android-based 10.1 tablets! Intended to control Ableton for DJ-usage and -purposes, this template's purpose is to turn an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton (via MIDI), as if it was a "regular" hardware-controller!</p>
+<p>The d3c-controller is a template made for - and to be run on - TouchOSC's (IMHO) excellent app-software for iOS and Android by hexler.net, which enables a modular OSC and MIDI control surface for - in this case and for now - iPads and Android-based 10.1 tablets!
+<br />Intended to control Ableton for DJ-usage and -purposes, this template's intention is to turn an iPad or Android-tablet into a DJ-mixer, from where one can PFL-, launch-/stop- and mix tracks on Ableton (via MIDI), as if it was a "regular" hardware-controller!</p>
 <p>Furthermore, you can also set/adjust/change the set's current-running BPM on-the-fly, and there's also a three-band EQ including kill-buttons for each band, too (note: only implemented on the expanded-version of the template).</p>
 
 <p>Now - let's move on...</p>
@@ -42,10 +43,15 @@ However setting up the TouchOSc on an Android-tablet is a breeze (as there isn't
 
 
 <h2>Regarding d3c and Ableton 10.x</h2>
-<p>Since the release of Ableton ver. 10, I've noticed some rather irritating bugs; I seriously doubt, it's Ableton's or Hexler's fault</p>
-<p>Although, I'm well-aware of these occuring bugs, I haven't had the opportunity to find out what's causing these - let alone fix them!<br> If any of you touchOSC-users out there might know, what might be causing this bug, then please by all means contact me A.S.A.P.!<br> But otherwise I have no current plans regarding me performing a bug-hunt and a fix of the d3c-templates - as for now!</p>
-<p>Just sayin'...</p>
+<p>Since the release of Ableton ver. 10, I've noticed some rather irritating bugs occurring in the d3c-template's; bugs, which I seriously doubt, are either Ableton's or Hexler's fault - well AFAIK, anyway!</p>
 
+<p>Although, I'm well-aware of these occurring bugs, I haven't had the opportunity to find out what's causing these - let alone fix them!<br>
+If any of you touchOSC-users out there, whom might know or can figure out what's causing this bug/these bugs, then please by all means contact me A.S.A.P.!</p>
+
+<p>But otherwise - for the time being - I have currently no plans performing a "bug"-hunt and -fix of the d3c-controller templates, as for now! As a result, the d3c-controller is therefore currently put on hold until further notice!<br>Furthermore, the d3c-website will be shut down and removed as of April the 1st, 2020; a "legacy"-site for the d3c-controller will however be available on and from this page.<br>Also if I should choose to "reboot" (and bug-fix) the d3c-controller, it's new/improved templates will be available from here!</p>
+
+<p>If any further progress regarding the d3c-controller should occur, I'll post so on "News"-section of <a href="https://don.voorhies.dk" rel="noopener" target="_blank">don.voorhies.dk.</p>
+  
 <h2>Template downloads:</h2>
 <ul>
   <li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_iOS.touchosc?raw=true">The Basic iOS-version</a></li>
