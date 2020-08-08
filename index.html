@@ -6,10 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="A controller-template for TouchOSC - intended for DJ-usage on Ableton">
 <link rel="icon" href="favicon.jpg" type="image/jpeg"/>
-<link rel="preload" href="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" as="image">
 <link rel="preload" href="https://donvoorhies.github.io/d3c/d3c_v2-2ch.png" as="image">
+<link rel="preload" href="https://donvoorhies.github.io/d3c/d3c_v2-4ch.png" as="image">
+<link rel="preload" href="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" as="image">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.css" as="style">
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" as="style">
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" as="script">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.js" as="script">
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" as="script">
 <title>The d3c | a controller-template for TouchOSC - and Ableton</title>
 <style>
@@ -25,7 +28,7 @@ h3{font-size:1em;margin:21px 0 12px 0}
 p a,p a:active,p a:visited,li a,li a:active,li a:visited{text-decoration:underline;color:#00F;margin:0 0 16px 0}
 li{margin:0 0 16px 0}
 li#temp{color:#CCC}
-div#plcholder, img#scrshot{width:600px;height:auto;max-width:100%;margin:0 auto}
+/*div#plcholder, img#scrshot{width:600px;height:auto;max-width:100%;margin:0 auto}*/
 img.badge{width:88px;height:auto}
 /*http://responsiveslides.com/*/
 .rslides{position:relative;list-style:none;overflow:hidden;width:100%;padding:0;margin:0}.rslides li{-webkit-backface-visibility:hidden;position:absolute;display:none;width:100%;left:0;top:0}.rslides li:first-child{position:relative;display:block;float:left}.rslides img{display:block;height:auto;float:left;width:100%;border:0}
@@ -38,11 +41,9 @@ p a,p a:active,p a:visited{text-decoration:underline;color:#00F;margin:15px 0 15
 li{margin:15px 0 16px 0}
 }
 </style>
- <script type="application/ld+json"> 
-{
+<script type="application/ld+json">{
 "@context": "http://www.schema.org","@type": "product","brand": "d3c","name": "d3c DJ-Controller","image": "https://donvoorhies.github.io/d3c/emblemmatic-d3c-logo-3.svg","description": "the d3c-controller is a template intended to run on-/with TouchOSC's app thus turning an iPad or Android-tablet into a DJ-mixer, from where one can  launch-/stop- and mix tracks on Ableton via MIDI, as if it was a \"regular\" hardware-controller."
-}
- </script>
+}</script>
 </head>
 <body>
 <main>
@@ -50,9 +51,7 @@ li{margin:15px 0 16px 0}
 <h1>The d3c | a DJ-controller GUI</h1>
 </header>
 <section>
-
 <h2>Introducing the d3c - and first of all: what it is NOT...</h2>
-<!--<div id="plcholder"><img id="scrshot" src="d3c_v2-2ch.png" alt="Screenshot of the d3c v2.0 (2-channel version)" title="Screenshot of the d3c v2.0 (2-channel version)"></div>-->
 <ul class="rslides">
 <li><img src="d3c_v2-2ch.png" alt="Screenshot of the d3c v2.0 (2-channel version)" title="Screenshot of the d3c v2.0 (2-channel version)"></li>
 <li><img src="d3c_v2-4ch.png" alt="Screenshot of the d3c v2.0 (4-channel version)" title="Screenshot of the d3c v2.0 (4-channel version)"></li>
@@ -96,22 +95,16 @@ li{margin:15px 0 16px 0}
 <a href="https://www.kvraudio.com/forum/viewtopic.php?p=4544922" title="Setup tutorial for TouchOSC on an Android Phone..." target="_blank" rel="noreferrer">https://www.kvraudio.com/forum/viewtopic.php?p=4544922</a></p>
 <p>(Please note the link above is of an older date - i.e.: it's old AF...!)</p>  
 
-<h2>Template downloads (v2.0 - latest version):</h2>
+<h2>Template downloads (v2.0 - the latest/most recent version):</h2>
 <ul>
 <li><a href="d3c_v2-2ch.touchosc?raw=true" rel="noreferrer" title"Save link as...">The d3c | two-channel version</a></li>
 <li><a href="d3c_v2-4ch.touchosc?raw=true" rel="noreferrer" title"Save link as...">The d3c | four-channel version</a></li>
 </ul>  
-<h2>Template downloads (v1.0 legacy-versions | not supported anymore - so use at own discretion):</h2>   
-<ul>
-<li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_iOS.touchosc?raw=true" rel="noreferrer" title"Save link as...">The Basic iOS-version</a></li>
-<li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_iOS.touchosc?raw=true" rel="noreferrer" title"Save link as...">The Expanded iOS-version</a></li>
-<li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c_Android.touchosc?raw=true" rel="noreferrer" title"Save link as...">The Basic Android-version</a></li>
-<li><a href="https://github.com/donvoorhies/d3c/blob/master/d3c-ext_Android.touchosc?raw=true" rel="noreferrer" title"Save link as...">The Expanded Android-version</a></li>
-</ul>
 
-<h3>Additional credits/shout-outs:</h3>
+ <h3>Additional credits/shout-outs:</h3>
 <p>I'd like to take the opportunity to say thanks a LOT to Dimitri Pike (<a href="http://www.wildtek.net/" title="To the Wildtek website" target="_blank" rel="noreferrer">http://www.wildtek.net/</a>) for helping out!</p>
 </section>
+
 <section>
 <h2>License(s):</h2>
 <h3>CC 4.0 BY-NC-ND</h3>
@@ -136,8 +129,10 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 var k=function(b){for(var d=a.href,c=p.length;c--;)if(p[c].href===d)return b();setTimeout(function(){k(b)})};a.addEventListener&&a.addEventListener("load",g);a.onloadcssdefined=k;k(g);return a};"undefined"!==typeof exports?exports.loadCSS=e:l.loadCSS=e})("undefined"!==typeof global?global:this);</script>
 <script>loadCSS('https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css');</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js"></script>
+<!--https://http://responsiveslides.com/-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.js"></script>
-<script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});</script>
 <script>$(function(){$(".rslides").responsiveSlides();});</script>
+<!--https://www.osano.com/cookieconsent/-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js"></script>
+<script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});</script>
 </html>
