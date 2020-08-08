@@ -27,6 +27,8 @@ li{margin:0 0 16px 0}
 li#temp{color:#CCC}
 div#plcholder, img#scrshot{width:600px;height:auto;max-width:100%;margin:0 auto}
 img.badge{width:88px;height:auto}
+/*http://responsiveslides.com/*/
+.rslides{position:relative;list-style:none;overflow:hidden;width:100%;padding:0;margin:0}.rslides li{-webkit-backface-visibility:hidden;position:absolute;display:none;width:100%;left:0;top:0}.rslides li:first-child{position:relative;display:block;float:left}.rslides img{display:block;height:auto;float:left;width:100%;border:0}
 @media(max-width:415px){
 main{margin:0px auto;max-width:98%}
 h1{font-size:1.4em;margin:0 0 24px 0}
@@ -50,7 +52,11 @@ li{margin:15px 0 16px 0}
 <section>
 
 <h2>Introducing the d3c - and first of all: what it is NOT...</h2>
-<div id="plcholder"><img id="scrshot" src="d3c_v2-2ch.png" alt="Screenshot of the d3c v2.0 (2-channel version)" title="Screenshot of the d3c v2.0 (2-channel version)"></div>
+<!--<div id="plcholder"><img id="scrshot" src="d3c_v2-2ch.png" alt="Screenshot of the d3c v2.0 (2-channel version)" title="Screenshot of the d3c v2.0 (2-channel version)"></div>-->
+<ul class="rslides">
+<li><img id="scrshot" src="d3c_v2-2ch.png" alt="Screenshot of the d3c v2.0 (2-channel version)" title="Screenshot of the d3c v2.0 (2-channel version)"></li>
+<li><img id="scrshot" src="d3c_v2-4ch.png" alt="Screenshot of the d3c v2.0 (4-channel version)" title="Screenshot of the d3c v2.0 (4-channel version)"></li>
+</ul>
 <p>&nbsp;</p>
 <p>Let's get the facts straight first: the d3c is <span style="color:#F00;font-weight:700">NOT</span> a standalone (neither software- or hardware-based) MIDI (DJ-)controller!</p>
 <h2>"TL;DR - cut to the chase: What is the d3c then...?"</h2>
@@ -131,5 +137,11 @@ var k=function(b){for(var d=a.href,c=p.length;c--;)if(p[c].href===d)return b();s
 <script>loadCSS('https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css');</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.js"></script>
 <script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#007C21"},button:{background:"#007C21",text:"#ffffff"}},showLink:!1,content:{dismiss:"O.K."}})});</script>
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides();
+  });
+</script>
 </html>
